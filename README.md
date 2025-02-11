@@ -2,9 +2,6 @@
 
 Health and fitness tracker web application.
 
-## Authors
-
-panktiHT, FredReinink.
 
 ## About
 
